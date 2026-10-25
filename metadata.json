@@ -1,0 +1,6 @@
+{
+  "name": "Alexa+ Smart Live Assistant",
+  "description": "A modern AI-powered productivity assistant to manage daily tasks, deadlines, routines, and smart conversational productivity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
